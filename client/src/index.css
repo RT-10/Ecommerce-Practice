@@ -103,3 +103,13 @@
   align-items: center;
   justify-content: center;
 }
+
+/* Register */
+
+.register {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 85.5vh;
+  flex-direction: column;
+}
